@@ -1,0 +1,6 @@
+2025/06/30-18:24:14.835 7e3c Creating DB C:\Users\Propietario\Desktop\GIT\asistente-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/06/30-18:24:14.850 7e3c Reusing MANIFEST C:\Users\Propietario\Desktop\GIT\asistente-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/30-18:24:14.851 7e3c Recovering log #7
+2025/06/30-18:24:14.851 7e3c Reusing old log C:\Users\Propietario\Desktop\GIT\asistente-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/000007.log 
+2025/06/30-18:24:14.851 7e3c Delete type=2 #5
+2025/06/30-18:24:14.851 7e3c Delete type=2 #8
